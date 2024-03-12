@@ -1,5 +1,7 @@
 # mcs_24_2 [Расписание](https://docs.google.com/spreadsheets/d/1SUWGYB0hIYg-Anky_vYbtH3Vla9_gs85lXaNUBEqVTE/edit?usp=sharing)
 
+## Мат стат [Практика 1](https://raw.githubusercontent.com/motattack/mcs_24_2/main/stat/Praktika_1_nov.pdf) -> [jupyter](https://raw.githubusercontent.com/motattack/mcs_24_2/main/stat/lesson1_new.ipynb) | [Практика 2](https://raw.githubusercontent.com/motattack/mcs_24_2/main/stat/Praktika_2.pdf)
+
 ## Мат физика [Пособие](https://raw.githubusercontent.com/motattack/mcs_24_2/main/mmm/AlekseevMono2011.pdf) | [Новые главы](https://raw.githubusercontent.com/motattack/mcs_24_2/main/mmm/emp17-13New_gl_1.pdf) | [Экзамен](https://raw.githubusercontent.com/motattack/mcs_24_2/main/mmm/MathPhys_Questions01_2023.pdf) | [Устный экзамен](https://raw.githubusercontent.com/motattack/mcs_24_2/main/mmm/MathPhys_Questions02_2023.pdf)
 
 ## Функан [Введение](https://raw.githubusercontent.com/motattack/mcs_24_2/main/funcan/vvedenie_v_predmet.pdf) | [Пособие 1](https://raw.githubusercontent.com/motattack/mcs_24_2/main/funcan/Lektsii_Po_Fa-1.pdf) | [Пособие 2](https://raw.githubusercontent.com/motattack/mcs_24_2/main/funcan/Lektsii_Po_Fa-2.pdf) | [Идз](https://raw.githubusercontent.com/motattack/mcs_24_2/main/funcan/Zadachi_Dlya_Idz-Funkan.pdf)
