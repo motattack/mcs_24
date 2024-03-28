@@ -8,6 +8,8 @@
 
 ## Числаки [Функции](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1-2_Zadanie_Dlya_1_Lab.pdf) | [Лаба №1](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1_2_zadacha_koshi_i_kraevaya_zadacha.pdf)
 
+## Экономика [Выбор страны](https://docs.google.com/spreadsheets/d/1r7hIE2U4t7hJR_7NQNpGQFKQd7QYfGfXZuOuwOTgFWQ/edit?usp=sharing)
+
 ## Мат моделирование (...---...) [пиздец]
   ### Лаба №1
   Необходимо построить модель нагрева нагревателя утюга в трех вариантах (без терморегулятора/с терморегулятором/с умным терморегулятором)
