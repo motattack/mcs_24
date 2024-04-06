@@ -149,7 +149,7 @@
 
  $\frac{d^2\alpha}{dt^2} + \left(\frac{g}{L}\right)\sin\left(\alpha\right) = 0$
 
- Пусть $\omega = \frac{g}{L}$
+ Пусть $\omega^2 = \frac{g}{L}$
 
    ```math
   \begin{equation}
