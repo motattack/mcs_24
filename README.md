@@ -1,6 +1,6 @@
 # mcs_24 [Расписание](https://docs.google.com/spreadsheets/d/1SUWGYB0hIYg-Anky_vYbtH3Vla9_gs85lXaNUBEqVTE/edit?usp=sharing)
 
-## Числаки [Марчук](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/vychmat.pdf) | [Марчук 2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/rashep.pdf) | [Завьялов](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/splain.pdf) | [Прочее](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Ch_method.pdf)
+## Числаки [Марчук](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/vychmat.pdf) | [Марчук 2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/rashep.pdf) | [Завьялов](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/splain.pdf) | [Срочко](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Ch_method.pdf)
 Вариационные и проекционные методы математической физики.
 1.	Формулировка задачи вариационного исчисления, вывод уравнения Эйлера.
 2.	Первая краевая задача.
