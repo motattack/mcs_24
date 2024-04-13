@@ -212,16 +212,21 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
   $\omega = \frac{2\pi}{T} = \frac{2\pi}{24\cdot 60\cdot 60}$
 
   Уравнение движения $F=ma$.
+  
   $m\frac{dV}{dt} = F$
 
-  Сила Кориоли́са $F_{k} = 2\left[w \times v\right]m$ -- перпендикулярно скорости.
+  Сила Кориоли́са $F_{k} = 2\left[w \times v\right]m$ - перпендикулярно скорости.
+  
   Подставляем
+  
   $m\frac{dV}{dt} = 2\left[w \times v\right]m$
+  
   $\frac{dV}{dt} = 2\left[w \times v\right]$
 
   Траектория это $x = x\left(t\right)$ и $y = \left(t\right)$.
   
   $U = U\left(t\right)$ и $V = V\left(t\right)$
+  
   $\Rightarrow$ $U = \frac{dx}{dt}$, $V = \frac{dy}{dt}$
   
   Системка
@@ -244,7 +249,9 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
   
   Можно показать
   $u\frac{dU}{dt} = 2\omega VU$
+  
   +
+  
   $V\frac{dV}{dt} = -2\omega UV$
   
   $U\frac{dU}{dt} + V\frac{dV}{dt} = 0$
