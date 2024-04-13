@@ -248,10 +248,9 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
   При анализе. Сила кориолиса перпендикулярна (скалярное 0) -- не производит работу.
   
   Можно показать
+  
   $u\frac{dU}{dt} = 2\omega VU$
-  
   +
-  
   $V\frac{dV}{dt} = -2\omega UV$
   
   $U\frac{dU}{dt} + V\frac{dV}{dt} = 0$
