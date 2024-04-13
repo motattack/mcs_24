@@ -29,4 +29,6 @@
 
 ## Экономика [Выбор страны](https://docs.google.com/spreadsheets/d/1r7hIE2U4t7hJR_7NQNpGQFKQd7QYfGfXZuOuwOTgFWQ/edit?usp=sharing)
 
+## ML [Adrian](https://github.com/AJMC2002/ML)
+
 ## Мат моделирование [Лабы](https://github.com/motattack/mcs_24/blob/main/mcm/Readme.md)
