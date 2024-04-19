@@ -177,34 +177,34 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
 ### Лаба №4
   Движение материальной точки во вращающейся системе координат
 
-  $\omega = \frac{2\pi}{T} = \frac{2\pi}{24\cdot 60\cdot 60}$
+  $\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{24\cdot 60\cdot 60}$
 
   Уравнение движения $F=ma$.
   
-  $m\frac{dV}{dt} = F$
+  $m\dfrac{dV}{dt} = F$
 
   Сила Кориоли́са $F_{k} = 2\left[w \times v\right]m$ - перпендикулярно скорости.
   
   Подставляем
   
-  $m\frac{dV}{dt} = 2\left[w \times v\right]m$
+  $m\dfrac{dV}{dt} = 2\left[w \times v\right]m$
   
-  $\frac{dV}{dt} = 2\left[w \times v\right]$
+  $\dfrac{dV}{dt} = 2\left[w \times v\right]$
 
   Траектория это $x = x\left(t\right)$ и $y = \left(t\right)$.
   
   $U = U\left(t\right)$ и $V = V\left(t\right)$
   
-  $\Rightarrow$ $U = \frac{dx}{dt}$, $V = \frac{dy}{dt}$
+  $\Rightarrow$ $U = \dfrac{dx}{dt}$, $V = \dfrac{dy}{dt}$
   
   Системка
   ```math
   \begin{equation}
       \begin{cases}
-       \frac{dU}{dt} = 2 \omega V,\\
-       \frac{dV}{dt} = -2 \omega U,\\
-       \frac{dx}{dt} = U,\\
-       \frac{dy}{dt} = V,\\
+       \dfrac{dU}{dt} = 2 \omega V,\\
+       \dfrac{dV}{dt} = -2 \omega U,\\
+       \dfrac{dx}{dt} = U,\\
+       \dfrac{dy}{dt} = V,\\
        U\left(0\right) = U0,\\
        V\left(0\right) = V0,\\
        x\left(0\right) = x0,\\
@@ -217,17 +217,17 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
   
   Можно показать
   
-  $u\frac{dU}{dt} = 2\omega VU$
+  $u\dfrac{dU}{dt} = 2\omega VU$
   
-  $V\frac{dV}{dt} = -2\omega UV$
+  $V\dfrac{dV}{dt} = -2\omega UV$
 
   (сложили то, что выше)
   
-  $U\frac{dU}{dt} + V\frac{dV}{dt} = 0$
+  $U\dfrac{dU}{dt} + V\dfrac{dV}{dt} = 0$
   
-  $\frac{1}{2} \left(\frac{dU^2}{dt} + \frac{dV^2}{dt}\right) = 0$
+  $\dfrac{1}{2} \left(\dfrac{dU^2}{dt} + \dfrac{dV^2}{dt}\right) = 0$
   
-  $\frac{d}{dt} \left(\frac{U^2}{2} + \frac{V^2}{2}\right) = 0$ - изменение кинетической энергии = 0.
+  $\dfrac{d}{dt} \left(\dfrac{U^2}{2} + \dfrac{V^2}{2}\right) = 0$ - изменение кинетической энергии = 0.
 
   Можно анализ траектории -- показать, что будет окружность и какого радиуса. Кинетическая в потенциальную.
   $\left|\bar{V}\right| \approx 1 \div 10$ м/с
@@ -235,7 +235,7 @@ $\frac{d^2\alpha}{dt^2} + \omega^2 \alpha = 0$
   Нужно показать при разных скоростях (2-3 варианта) - из 1 точки.
   
   Выводить примерно такую таблицу
-  | $t_i$ | $U_i$ | $V_i$ | $x_i$ | $y_i$ | $V_i^2 + U_i^2$ | $k = \frac{k_i - k0}{k0}$ |
+  | $t_i$ | $U_i$ | $V_i$ | $x_i$ | $y_i$ | $V_i^2 + U_i^2$ | $k = \dfrac{k_i - k0}{k0}$ |
   |-------|-------|-------|-------|-------|-----------------|---------------------------|
   | | | | | | | |
 
