@@ -10,7 +10,7 @@
 
 ## [Экономика](economic/readme.md)
 
-## ML [Adrian](https://github.com/AJMC2002/ML)
+## [ML](ml/readme.md)
 
 ## Мат моделирование [Лабы](https://github.com/motattack/mcs_24/blob/main/mcm/Readme.md)
 
