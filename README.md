@@ -6,9 +6,9 @@
 
 ## [Мат физика](mmm/readme.md)
 
-## Числаки П [Функции](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1-2_Zadanie_Dlya_1_Lab.pdf) | [Лаба №1](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1_2_zadacha_koshi_i_kraevaya_zadacha.pdf) | [Задание 2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/zadanie_2.pdf) < [И1](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_1.jpg) < [И2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_2.jpg) < [И3](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_3.jpg)
+## [Числаки](num_meth_of_dif_eq/readme.md)
 
-## Экономика [Выбор страны](https://docs.google.com/spreadsheets/d/1r7hIE2U4t7hJR_7NQNpGQFKQd7QYfGfXZuOuwOTgFWQ/edit?usp=sharing)
+## [Экономика](economic/readme.md)
 
 ## ML [Adrian](https://github.com/AJMC2002/ML)
 
