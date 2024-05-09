@@ -4,7 +4,7 @@
 
 ## [Мат стат](stat/readme.md)
 
-## Мат физика [Пособие](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/AlekseevMono2011.pdf) | [Новые главы](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/emp17-13New_gl_1.pdf) | [Экзамен](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions01_2023.pdf) | [Устный экзамен](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions02_2023.pdf)
+## [Мат физика](mmm/readme.md)
 
 ## Числаки П [Функции](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1-2_Zadanie_Dlya_1_Lab.pdf) | [Лаба №1](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/Lab_1_2_zadacha_koshi_i_kraevaya_zadacha.pdf) | [Задание 2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/zadanie_2.pdf) < [И1](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_1.jpg) < [И2](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_2.jpg) < [И3](https://raw.githubusercontent.com/motattack/mcs_24/main/num_meth_of_dif_eq/tabfix_3.jpg)
 
