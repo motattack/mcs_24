@@ -2,7 +2,7 @@
 
 ## [Функан](funcan/readme.md)
 
-## Мат стат [Пособие](https://raw.githubusercontent.com/motattack/mcs_24/main/stat/ms_nsu07.pdf) | [Пособие Теорвер](https://raw.githubusercontent.com/motattack/mcs_24/main/stat/portr.pdf) | [Практика 1](https://raw.githubusercontent.com/motattack/mcs_24/main/stat/Praktika_1_nov.pdf) -> [jupyter](https://raw.githubusercontent.com/motattack/mcs_24/main/stat/lesson1_new.ipynb) | [Практика 2](https://raw.githubusercontent.com/motattack/mcs_24/main/stat/Praktika_2.pdf)
+## [Мат стат](stat/readme.md)
 
 ## Мат физика [Пособие](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/AlekseevMono2011.pdf) | [Новые главы](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/emp17-13New_gl_1.pdf) | [Экзамен](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions01_2023.pdf) | [Устный экзамен](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions02_2023.pdf)
 
