@@ -22,4 +22,4 @@
 | [тема 5](https://miro.com/app/board/uXjVKMft37s=/?share_link_id=89463290852) | классификация |
 | [тема 6](https://miro.com/app/board/uXjVKMft37s=/?share_link_id=960603101875) | деревья |
 | [тема 7](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=789575770723) | лин. классификатор |
-| [тема 8](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=147840051395) | Вероятностные алгоритмы (НБК - Наивный Байесовский классификатор) |
+| [тема 8](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=147840051395) | вероятностные алгоритмы (нбк - наивный байесовский классификатор) |
