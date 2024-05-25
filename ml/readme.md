@@ -19,8 +19,8 @@
 | [тема 2](https://raw.githubusercontent.com/motattack/mcs_24/main/ml/2_restore_data.pdf) | восстановление данных |
 | [тема 3](https://raw.githubusercontent.com/motattack/mcs_24/main/ml/3_emissions.pdf) | выбросы |
 | [тема 4](https://miro.com/app/board/uXjVKa9ElA4=/?share_link_id=328178066792) | лин регрессия |
-| [тема 5](https://miro.com/app/board/uXjVKMft37s=/?share_link_id=89463290852) | классификация |
+| [тема 5](https://miro.com/app/board/uXjVKXohzCc=/?share_link_id=89463290852) | классификация |
 | [тема 6](https://miro.com/app/board/uXjVKMft37s=/?share_link_id=960603101875) | деревья |
 | [тема 7](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=789575770723) | лин. классификатор |
-| [тема 8](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=147840051395) | вероятностные алгоритмы (нбк - наивный байесовский классификатор) |
-| [тема 9](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=59343303007) | отбор признаков |
+| [тема 8](https://miro.com/app/board/uXjVKJLPwlU=/?share_link_id=147840051395) | вероятностные алгоритмы (нбк - наивный байесовский классификатор) |
+| [тема 9](https://miro.com/app/board/uXjVKDB-Q9o=/?share_link_id=59343303007) | отбор признаков |
