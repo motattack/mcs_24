@@ -23,4 +23,5 @@
 | [тема 6](https://miro.com/app/board/uXjVKMft37s=/?share_link_id=960603101875) | деревья |
 | [тема 7](https://miro.com/app/board/uXjVKMf6LUI=/?share_link_id=789575770723) | лин. классификатор |
 | [тема 8](https://miro.com/app/board/uXjVKJLPwlU=/?share_link_id=147840051395) | вероятностные алгоритмы (нбк - наивный байесовский классификатор) |
-| [тема 9](https://miro.com/app/board/uXjVKDB-Q9o=/?share_link_id=59343303007) | отбор признаков |
+| [тема 9](https://miro.com/app/board/uXjVKDB-Q9o=/?share_link_id=59343303007) | отбор признаков Ч1 |
+| [тема 10](https://miro.com/app/board/uXjVK-UPp5A=/?share_link_id=681158703069) | отбор признаков Ч2 |
