@@ -7,3 +7,4 @@
 | [рефераты](https://docs.google.com/spreadsheets/d/1RyNUHHaxJ8YgoudqoGkReJgDsJOvnGN9M9YRiMZpaiU/edit?usp=sharing) | порядковые номера и номера вопросов|
 | [темы рефератов](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions01_2023.pdf) | - |
 | [устный экзамен](https://raw.githubusercontent.com/motattack/mcs_24/main/mmm/MathPhys_Questions02_2023.pdf) | 15 вопросов |
+| [вопросы](questions.md) | ??? |
